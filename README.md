@@ -1,6 +1,6 @@
 # SpringMvc-Hibernate-Integration
 
-status-completed
+status:completed
 
-About
+About:
 Simple Crud Operation using spring MVC ,Hibernate, mysql and JSP.
